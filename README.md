@@ -1,3 +1,3 @@
 # lodash
-lodash中文整理文档
+lodash学习
 https://caichunbao.github.io/lodash/index
